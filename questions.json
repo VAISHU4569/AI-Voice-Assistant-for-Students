@@ -1,0 +1,30 @@
+{
+    "Python": [
+        "What is Python?",
+        "What is a variable in Python?",
+        "What is a function in Python?",
+        "What is a list in Python?",
+        "What is a dictionary in Python?"
+    ],
+    "C Programming": [
+        "What is a pointer in C?",
+        "What is an array in C?",
+        "What is a function in C?",
+        "What is a structure in C?",
+        "What is the difference between malloc and calloc?"
+    ],
+    "DSA": [
+        "What is a data structure?",
+        "What is an array?",
+        "What is a linked list?",
+        "What is a stack?",
+        "What is a queue?"
+    ],
+    "AI and ML": [
+        "What is Artificial Intelligence?",
+        "What is Machine Learning?",
+        "What is Deep Learning?",
+        "What is supervised learning?",
+        "What is unsupervised learning?"
+    ]
+}
